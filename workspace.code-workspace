@@ -3,6 +3,10 @@
 		{
 			"name": "test_Project",
 			"path": "test_Project"
+		},
+		{
+			"name": "Secund_Project",
+			"path": "Secund_Project"
 		}
 	]
 }
